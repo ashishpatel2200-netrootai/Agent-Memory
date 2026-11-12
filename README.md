@@ -8,6 +8,10 @@ Netroot AI is a local observability dashboard for understanding how AI agents us
 
 Built with Python’s standard library, SQLite, and plain HTML, CSS, and JavaScript. No third-party Python packages, frontend build step, or cloud account is required.
 
+
+<img width="1863" height="1020" alt="image" src="https://github.com/user-attachments/assets/650d32db-e8fd-4f82-898e-c3811675a99a" />
+
+
 ## Features
 
 - **Overview dashboard:** tracked sessions, current context tokens, capacity utilization, and estimated USD spend.
